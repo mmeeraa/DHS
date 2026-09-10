@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-maitha and sara are the best
+maitha and sara r the best
