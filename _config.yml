@@ -59,6 +59,7 @@ plugins:
 
 author:
   name   : "Meera Almheiri"
+  avatar : "/assets/images/globe.jpg"
   bio    : "NYUAD Student | Business, Organizations, and Society Major"
   links:
     - label: "Website"
